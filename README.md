@@ -1,4 +1,4 @@
-# SB-connect-4
+# SB- Connect 4
 
 https://mbhalesha.github.io/SB-connect-4/
 
